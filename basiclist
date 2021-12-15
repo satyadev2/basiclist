@@ -33,6 +33,8 @@ print(list)
 """
 popped_value=list.pop(5)
 print(list)
+thank you
+
 print(popped_value)
 popped_value2=list.pop()
 print(list)
